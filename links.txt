@@ -1,0 +1,3 @@
+https://www.kaggle.com/code/alvations/basic-nlp-with-nltk/notebook
+
+https://widdowquinn.github.io/Teaching-SWC-Lessons/python/2017-05-18-standrews/extras/nltk_example.html
